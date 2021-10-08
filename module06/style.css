@@ -8,7 +8,8 @@ nav		{ text-align: center;
 		  font-weight: bold; }
 #wrapper	{ margin-left: auto;
 		  margin-right: auto;
-		  width: 80%; }
+		  width: 80%;
+                  text-align: center }
 		 
 footer	{ background-color: #b89e81;
 					font-size: .60em;
