@@ -1,7 +1,7 @@
-#body { 
+.body { 
 	display: grid; 
 	grid-template-columns: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
-	grid-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
+	grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr 7fr 8fr;
 	grid-template-areas:
 	"red"
 	"orange orange"
@@ -13,35 +13,35 @@
 	"purple purple purple purple purple purple purple purple"
 	"black black black black black black black black black"
 	". white white white white white white white ." }
-black { 
+.black { 
 	grid-column-start 2fr;
 	grid-column-end: 8fr;
 	background-color: black; }
-white {
+.white {
 	grid-column-start: 1fr;
 	grid-column-end: 9fr;
 	background-color: white; }
-red {
+.red {
 	grid-area: red;
 	background-color: red; }
-orange {
+.orange {
 	grid-area: orange; 
 	background-color: orange; }
-yellow {
+.yellow {
 	grid-area: yellow;
 	background-color: yellow; }
-green {
+.green {
 	grid-area: green; 
 	background-color: green; }
-cyan {
+.cyan {
 	grid-area: cyan;
 	background-color: cyan; }
-blue {
+.blue {
 	grid-area: blue; 
 	background-color: blue; }
-violet {
+.violet {
 	grid-area: violet;
 	background-color: violet; }
-purple {
+.purple {
 	grid-area: violet; 
 	background-color: violet; }
