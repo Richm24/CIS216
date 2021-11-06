@@ -13,14 +13,6 @@
 	"purple purple purple purple purple purple purple purple"
 	"black black black black black black black black black"
 	". white white white white white white white ." }
-.black { 
-	grid-column-start 2fr;
-	grid-column-end: 8fr;
-	background-color: black; }
-.white {
-	grid-column-start: 1fr;
-	grid-column-end: 9fr;
-	background-color: white; }
 .red {
 	grid-area: red;
 	background-color: red; }
@@ -45,3 +37,11 @@
 .purple {
 	grid-area: violet; 
 	background-color: violet; }
+.black { 
+	grid-column-start 2fr;
+	grid-column-end: 8fr;
+	background-color: black; }
+.white {
+	grid-column-start: 1fr;
+	grid-column-end: 9fr;
+	background-color: white; }
