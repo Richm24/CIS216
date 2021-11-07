@@ -15,7 +15,7 @@
 	"purple purple purple purple purple purple purple purple"; 
 }
 .black { 
-	grid-column-start: 1;
+	grid-column-start: 1
 	grid-column-end: 9;
 	grid-row-start: 1;
 	grid-row-end: 9; 
