@@ -19,8 +19,7 @@
 	grid-column-start: 1;
 	grid-column-end: 9;
 	grid-row-start: 1;
-	grid-row-end: 9;
-	grid-area: black 
+	grid-row-end: 9; 
 	background-color: black; }
 .white {
 	grid-column-start: 2;
