@@ -12,8 +12,8 @@
 	"cyan cyan cyan cyan cyan . . . ."
 	"blue blue blue blue blue blue . . ."
 	"violet violet violet violet violet violet violet . ."
-	"purple purple purple purple purple purple purple purple ."
-	grid-gap:0px }
+	"purple purple purple purple purple purple purple purple .";
+	grid-gap:0px; }
 .black { 
 	grid-column-start 2;
 	grid-column-end: 8;
