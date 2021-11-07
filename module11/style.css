@@ -12,12 +12,7 @@
 	"cyan cyan cyan cyan cyan . . ."
 	"blue blue blue blue blue blue . ."
 	"violet violet violet violet violet violet violet ."
-	"purple purple purple purple purple purple purple purple"; 
-	grid-gap: 0px;
-	margin: 3px auto;
-	width: 1000px;
-	min-height: 90vh;
-	border-radius; 5px; }
+	"purple purple purple purple purple purple purple purple" }
 .black { 
 	grid-column-start: 1;
 	grid-column-end: 9;
