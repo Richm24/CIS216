@@ -14,7 +14,9 @@
 	"violet violet violet violet violet violet violet . "
 	"purple purple purple purple purple purple purple purple";
 	grid-gap:0px;
-	margin: 3px auto; }
+	margin: 3px auto;
+	max-width: 1000px;
+	min-height: 90vh; }
 .black { 
 	grid-column-start 1;
 	grid-column-end: 9;
