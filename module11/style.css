@@ -14,12 +14,12 @@
 	"violet violet violet violet violet violet violet . ."
 	"purple purple purple purple purple purple purple purple ." }
 .black { 
-	grid-column-start 2fr;
-	grid-column-end: 8fr;
+	grid-column-start 2;
+	grid-column-end: 8;
 	background-color: black; }
 .white {
-	grid-column-start: 1fr;
-	grid-column-end: 9fr;
+	grid-column-start: 1;
+	grid-column-end: 9;
 	background-color: white; }
 .red {
 	grid-area: red;
