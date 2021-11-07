@@ -17,8 +17,7 @@
 	margin: 3px auto;
 	width: 1000px;
 	min-height: 90vh;
-	border-radius; 5px;
-}
+	border-radius; 5px; }
 .black { 
 	grid-column-start: 1;
 	grid-column-end: 9;
