@@ -13,11 +13,7 @@
 	"blue blue blue blue blue blue . . "
 	"violet violet violet violet violet violet violet . "
 	"purple purple purple purple purple purple purple purple" }
-	grid-gap: 0px;
-	margin: 3px auto;
-	max-width: 1000px;
-	min-height: 90vh; 
-	border-radius: 5px; 
+	grid-gap: 0px; 
 }
 .black { 
 	grid-column-start 1;
