@@ -21,8 +21,8 @@ nav		{ float: left;
 		  padding-top: 10px }
 nav a   { text-decoration: none; }
 nav a:link  { color:#FEF6C2; }
-nav a:visited  { color: D2B48C; }
-nav a:hover  { color: CC9933; }
+nav a:visited  { color:#D2B48C; }
+nav a:hover  { color:#CC9933; }
 nav ul  { list-style-type: none; 
           padding-left: 0; }
 #wrapper	{ background-color: #231814;
@@ -48,7 +48,7 @@ main    { background-color: #FEF6C2;
 		  padding-bottom: 2em;
 		  padding-top: 0;
 		  margin-left: 200px;
-		  margin-bottom: 0;x }
+		  margin-bottom: 0px }
 main h2  { padding-left: 3em;
            padding-right: 2em;} 
 main h3  { padding-left: 3em;
@@ -83,7 +83,7 @@ img 	 {padding-left: 10px;
 table	{ width: 90%;
 	  margin: auto;
 	  border-spacing: 0;
-	  background-color: b89e81; }
+	  background-color:#b89e81; }
 td, th	{ padding: 10px; }
 tr:nth-of-type(odd)	{ background-color: #D2B48E; }
 form	{ padding: 2em; }
@@ -93,11 +93,11 @@ label	{ float: left;
 	  width: 8em;
 	  padding-right: 1em; }
 input, textarea	{ display: block;
-	          bottom-margin: 1em; }
+	          margin-bottom: 1em; }
 #mySubmit	{ margin-left: 9.5em; }
-#herojobs	{ height: 250px
-		  background-image: url("herojobs.jpg")	
-		  backgorund-size: 100% } 
+#herojobs	{ height: 250px;
+		  background-image: url("herojobs.jpg");	
+		  background-size: 100%; } 
 header, nav, main, footer {display: block; }
 footer	{ background-color: #b89e81;
 		  font-size: .60em;
