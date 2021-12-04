@@ -96,7 +96,7 @@ input, textarea	{ display: block;
 	          bottom-margin: 1em; }
 #mySubmit	{ margin-left: 9.5em; }
 #herojobs	{ height: 250px
-		  background-image: herojobs.jpg	
+		  background-image: url("herojobs.jpg")	
 		  backgorund-size: 100% } 
 header, nav, main, footer {display: block; }
 footer	{ background-color: #b89e81;
