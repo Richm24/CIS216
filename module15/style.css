@@ -86,8 +86,7 @@ table	{ width: 90%;
 	  background-color: b89e81; }
 td, th	{ padding: 10px; }
 tr:nth-of-type(odd)	{ background-color: #D2B48E; }
-form	{ padding: 2em;
-	  min-width: 20em; }
+form	{ padding: 2em; }
 label	{ float: left;
 	  display: block;
 	  text-align: right;
@@ -97,7 +96,7 @@ input, textarea	{ display: block;
 	          bottom-margin: 1em; }
 #mySubmit	{ margin-left: 9.5em; }
 #herojobs	{ height: 250px
-		  background-image: url	
+		  background-image: herojobs.jpg	
 		  backgorund-size: 100% } 
 header, nav, main, footer {display: block; }
 footer	{ background-color: #b89e81;
