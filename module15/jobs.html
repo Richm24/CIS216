@@ -22,19 +22,20 @@
 <p>
 Want to work at JavaJam? Fill out the form below to start your application.
 </p>
+"Required fields are marked with an asterisk (*)."
 <form method="post" 
 action="http://webdevbasics.net/scripts/javajam8.php.">
 <label for="name">Name:</label>
-<input type="text name="myName id="name">
+<*input type="text name="myName id="name" required>
 <label for="email">E-mail:</label>
-<input type="text" name="myEmail" id="email">
+<*input type="email" name="myEmail" id="email" required>
 Desired Hours:<br>
 <input type="radio" name="myHours" id="deisredhours">Full Time<br>
 <input type="radio" name="myHours" id="deisredhours">Part Time<br>
 <label for="experience">Experience:</label>
 <textarea name="myExperience" id="experience" cols="20" rows="2"></textarea>
 <br>
-<input type="submit" value="Apply Now">
+<*input type="submit" value="Apply Now" required>
 </form>
 <footer>
   &copy; Copyright 2021 JavaJam Coffee House
