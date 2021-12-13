@@ -42,7 +42,7 @@ table	{ width: 90%;
 td, th	{ padding: 10px; }	  
 header, nav, main, footer {display: block; }
 .mygrid { display: grid;
-	  grid-template-columns: 150 px 1fr;
+	  grid-template-columns: 150px 1fr;
 	  grid-template-rows: 200px auto; }
 .header { grid-row: 1 / 2;
 	 grid-column: 1 / 3; }
