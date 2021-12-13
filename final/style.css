@@ -1,4 +1,4 @@
-body 	{ background-image: url(background.jpg);
+body 	{ background-image: url(background.jpg); }
 h1	{ text-align: center; 
   	  padding-top: 45px;
   	  padding-left: 220px; 
@@ -8,13 +8,13 @@ nav	{ float: left;
           text-align: center;
           font-weight: bold;
           font-size: 1.5em;
-          padding-top: 10px }
+          padding-top: 10px; }
 main    { padding-left: 0;
 	  padding-right: 0;
 	  padding-bottom: 2em;
 	  padding-top: 0;
 	  margin-left: 200px;
-	  margin-bottom: 0px }
+	  margin-bottom: 0px; }
 h2	{ text-align: center; 
   	  padding-top: 45px;
   	  padding-left: 220px; 
@@ -23,8 +23,8 @@ h3	{ text-align: center;
   	  padding-top: 45px;
   	  padding-left: 220px; 
   	  font-size: 3em; }
-img 	 {padding-left: 10px;
-		  padding-right: 10px; }
+img 	 { padding-left: 10px;
+          padding-right: 10px; 
               height: 250px; }
 table	{ width: 90%;
 	  margin: auto;
