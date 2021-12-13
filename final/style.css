@@ -22,17 +22,7 @@ main    { padding-left: 0;
 	  padding-bottom: 2em;
 	  padding-top: 0;
 	  margin-left: 200px;
-	  margin-bottom: 0;x }
-main h2  { padding-left: 3em;
-           padding-right: 2em;} 
-main h3  { padding-left: 3em;
-           padding-right: 2em;} 
-main p  { padding-left: 3em;
-          padding-right: 2em;}
-main tr  { padding-left: 3em;
-           padding-right: 2em;}
-main td  { padding-left: 3em;
-           padding-right: 2em;} 
+	  margin-bottom: 0px }
 img 	 {padding-left: 10px;
 		  padding-right: 10px; }
               height: 250px; }
