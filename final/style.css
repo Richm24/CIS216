@@ -23,9 +23,11 @@ h3	{ text-align: center;
   	  padding-top: 45px;
   	  padding-left: 220px; 
   	  font-size: 3em; }
-img 	 { padding-left: 10px;
-          padding-right: 10px; 
-              height: 250px; }
+img 	 { display: block;
+	   padding-left: 10px;
+           padding-right: 10px; 
+           margin: auto;
+	   height: 250px; }
 table	{ width: 90%;
 	  margin: auto;
 	  border-spacing: 0; }
