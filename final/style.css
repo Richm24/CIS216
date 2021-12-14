@@ -10,6 +10,11 @@ nav	{ float: left;
           font-weight: bold;
           font-size: 1.5em;
           padding-top: 10px; }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 main    { padding-left: 0;
 	  padding-right: 0;
 	  padding-bottom: 2em;
