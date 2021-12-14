@@ -34,6 +34,8 @@ img 	 { display: block;
            padding-right: 10px; 
            margin: auto;
 	   height: 250px; }
+video { display: block; 
+	margin: auto; }
 table	{ width: 90%;
 	  margin: auto;
 	  border-spacing: 0; }
